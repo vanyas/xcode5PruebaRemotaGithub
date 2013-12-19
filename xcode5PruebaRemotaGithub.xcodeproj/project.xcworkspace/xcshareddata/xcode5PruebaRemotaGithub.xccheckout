@@ -5,34 +5,34 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>42336C0B-9A8C-46E9-8207-7D982DD2C74F</string>
+	<string>580E12E9-B5BD-4BEA-BB2D-E44DA2E0F176</string>
 	<key>IDESourceControlProjectName</key>
 	<string>xcode5PruebaRemotaGithub</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>3398994E-1B7E-408F-8528-C3423D6C3BCC</key>
-		<string>ssh://github.com/vanyas/xcode5PruebaRemotaGithub.git</string>
+		<key>A1114194-F6E0-41CC-B7FA-DE27C480FFE9</key>
+		<string>https://github.com/vanyas/xcode5PruebaRemotaGithub.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>xcode5PruebaRemotaGithub.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>3398994E-1B7E-408F-8528-C3423D6C3BCC</key>
+		<key>A1114194-F6E0-41CC-B7FA-DE27C480FFE9</key>
 		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>ssh://github.com/vanyas/xcode5PruebaRemotaGithub.git</string>
+	<string>https://github.com/vanyas/xcode5PruebaRemotaGithub.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>110</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>3398994E-1B7E-408F-8528-C3423D6C3BCC</string>
+	<string>A1114194-F6E0-41CC-B7FA-DE27C480FFE9</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>3398994E-1B7E-408F-8528-C3423D6C3BCC</string>
+			<string>A1114194-F6E0-41CC-B7FA-DE27C480FFE9</string>
 			<key>IDESourceControlWCCName</key>
 			<string>xcode5PruebaRemotaGithub</string>
 		</dict>
